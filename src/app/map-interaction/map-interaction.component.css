@@ -1,0 +1,21 @@
+#geo-type {
+    color: #059aad;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+}
+
+#type {
+    color: #eae5e5;
+    padding: 5px 10px;
+    background-color: #0b62d2;
+    border: 2px solid #0f30da;
+}
+
+#map {
+    background-color: #059aad;
+    height: 526px;
+    width: 80%;
+    margin: 10px 10%;
+}
